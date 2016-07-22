@@ -1,0 +1,63 @@
+.padre{
+	width: 800px;
+	height: 500px;
+	background-color: #8CB27C;
+	margin: 100px;
+	position: absolute;
+}
+.hijo{
+	height: 440px;
+	width: 750px;
+	background-color: #8CB27C;
+	border: 2px solid #E2EBDE;
+	position: relative;
+	margin-top:26px;
+	margin-left: 23px;
+}
+.arco1{
+	height: 142px;
+	width: 110px;
+	border:2px solid #E2EBDE;
+	border-left: 0px solid #E2EBDE;
+	background-color: #8CB27C;
+	position: absolute;
+	top: 133px;
+
+}
+.centro{
+	height: 160px;
+	width: 170px;
+	border-radius: 51%;
+	border: 2px solid #E2EBDE;
+	top: 127px;
+	left: 320px;
+	position: absolute;
+
+}
+
+.arco2{
+	height: 142px;
+	width: 110px;
+	border:2px solid #E2EBDE;
+	border-right: 0px solid #E2EBDE;
+	background-color: #8CB27C;
+	position: absolute;
+	top: 133px;
+	left: 638px;
+
+}
+.imagen1{
+	top: 135px;
+	left: 102px;
+	position: absolute;
+}
+.imagen2{
+	top: 50px;
+	left: 405px;
+	position: absolute;
+}
+.imagen3{
+	top: 247px;
+	left: 610px;
+	position: absolute;
+}
